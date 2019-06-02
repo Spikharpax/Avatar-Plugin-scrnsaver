@@ -1,0 +1,3 @@
+Un petit utilitaire pour éteindre l'écran du PC depuis l'interface d'A.V.A.T.A.R
+
+Très utile si vous avez une tablette tactile et A.V.A.T.A.R en mode plein écran !
