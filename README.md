@@ -6,7 +6,6 @@ Un petit utilitaire pour éteindre l'écran du PC depuis l'interface.
 
 Très utile si vous avez une tablette tactile et A.V.A.T.A.R en mode plein écran !
 
-<BR>
 ***
 ## ★ Installation
 * Téléchargez le plug-in depuis la bibliothèque de plug-ins A.V.A.T.A.R
